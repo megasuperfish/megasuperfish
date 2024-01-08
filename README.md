@@ -1,33 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Van 't veld
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jasper
 =========================================================================================================================================
 
-GameDeveloper / wannabe IT Expert
+wannabe IT Expert
 -----------------------------------
-
-I am a 21 year old Gamedev from the netherland
-And im Currently trying my hardest for my diploma from ROC Midden Nederland in IT Expert System en devices
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 I make projects just for fun and sometimes for school, it allows me to be creative. 
 
-I have a diploma from "Grafisch Lyceum Utrecht" in VR/AR. 
-
 i'm currently busy getting my diploma from "ROC Midden Nederland" in IT Expert System en devices
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
-
-i mainly code in C# whit visual Studio and i do all this in the Unity Game Engine 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 * 🧠  I'm learning Windows Server Networking
 * 🧠  I'm Getting my Certification as a IT Specialist
 * 🧠  I'm currently learning for my CCNA2 Certification
 * 🧠  I'm currently learning linux
-
-<a href="https://www.twitch.tv/BryanV030V" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/BryanV030V?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
