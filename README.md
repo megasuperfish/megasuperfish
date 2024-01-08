@@ -32,6 +32,4 @@ i'm currently busy getting my diploma from "ROC Midden Nederland" in IT Expert S
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![image](https://github.com/bryanV030V/megasuperfish/assets/61687852/d800ba55-d87e-4c2c-ac8f-8431a63cbeda) || ![image](https://github.com/megasuperfish/megasuperfish/assets/61687852/f605d414-b3e7-4815-a07b-410932bcd3aa)
---->
 ![it-specialist-device-configuration-and-management](https://github.com/megasuperfish/megasuperfish/assets/119459964/17b934f1-d3e4-45a8-b533-455f074134a9)
