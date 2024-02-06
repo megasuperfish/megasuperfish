@@ -22,7 +22,7 @@ i'm currently busy getting my diploma from "ROC Midden Nederland" in IT Expert S
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-[CSC-20240206-3935 (1).pdf](https://github.com/megasuperfish/megasuperfish/files/14178997/CSC-20240206-3935.1.pdf)
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
