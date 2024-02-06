@@ -22,7 +22,7 @@ i'm currently busy getting my diploma from "ROC Midden Nederland" in IT Expert S
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-
+[CSC-20240206-3935 (1).pdf](https://github.com/megasuperfish/megasuperfish/files/14178997/CSC-20240206-3935.1.pdf)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -31,3 +31,4 @@ i'm currently busy getting my diploma from "ROC Midden Nederland" in IT Expert S
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ![it-specialist-device-configuration-and-management](https://github.com/megasuperfish/megasuperfish/assets/119459964/17b934f1-d3e4-45a8-b533-455f074134a9) ![linuxpica](https://github.com/megasuperfish/megasuperfish/assets/119459964/8323e3d6-0080-4007-a76b-3002f2a7fa1c)
+
